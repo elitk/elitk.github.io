@@ -1359,6 +1359,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------------------------------------*/
 
 #footer {
+  text-align: center;
   background: #000;
   padding: 0 0 30px 0;
   color: #eee;
