@@ -1585,4 +1585,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   #mobile-nav-toggle {
     display: inline;
   }
+  .carousel-background{
+    margin: 45% auto;
+   
+  }
 }
