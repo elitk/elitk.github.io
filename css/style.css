@@ -1353,7 +1353,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 #contact .form button[type="submit"]:hover {
   background: #13a456;
 }
-
+.font-eli{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
